@@ -1,0 +1,15 @@
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+.App-header-footer {
+  height: 50px;
+  padding: 10px;
+  color: grey;
+  font-size: 22px;
+  text-align: center;
+  font-family: 'Roboto Mono';
+}
+
+
